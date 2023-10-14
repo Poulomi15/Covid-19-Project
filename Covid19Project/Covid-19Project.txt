@@ -1,0 +1,13 @@
+Covid 19 Project
+
+pip install plyer
+
+terminal:-python.main.py
+
+picture in png then convert into ico
+
+Website:mohfw.gov.in
+
+Package:-pip install bs4
+
+pip install requests
